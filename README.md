@@ -84,6 +84,9 @@ module traffic_light_controller (
         endcase
     end
 endmodule
+output:
+![image](https://github.com/user-attachments/assets/ccb86eef-ddc9-4e4d-b011-e57f1755596d)
+
 
 Testbench for Traffic Light Controller
 
@@ -129,7 +132,8 @@ module traffic_light_controller_tb;
 
 endmodule
 output:
-![image](https://github.com/user-attachments/assets/edde7e13-ebb0-47e2-9725-74a2ba48d48b)
+![image](https://github.com/user-attachments/assets/82fd276a-c2ec-480d-a4ed-2e5d42d50e13)
+
 
 
 
