@@ -128,6 +128,9 @@ module traffic_light_controller_tb;
     end
 
 endmodule
+output:
+![image](https://github.com/user-attachments/assets/edde7e13-ebb0-47e2-9725-74a2ba48d48b)
+
 
 
 Conclusion
